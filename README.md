@@ -1,5 +1,6 @@
 # COVID-19-Hackathon
 The repository is made for the online Hackathon by University of Washington.
+Our Group CuriousDuo were the winners under the category : Storytelling
 
 Coronavirus is a family of viruses that causes illness which can vary from common cold and cough which also leads to severe health conditions diarrhea, vomiting, chills, headache and much more.
 SARS-CoV-2 (n-coronavirus) is the newest entry of the coronavirus family which was discovered in the year 2019. Moreover this virus was not identified in any humans before.
