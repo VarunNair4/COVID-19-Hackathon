@@ -1,13 +1,13 @@
 # COVID-19-Hackathon
-The repository is made for the online Hackathon by University of Washington.
+The repository is made for the online Hackathon by University of Washington, Seattle.![https://data-science-hackathon.github.io/COVID-19-Hackathon/]
 
-Our Group CuriousDuo were the winners under the category : Storytelling
+Our Team CuriousDuo were the winners under the category : Storytelling
 
-Coronavirus is a family of viruses that causes illness which can vary from common cold and cough which also leads to severe health conditions diarrhea, vomiting, chills, headache and much more.
-SARS-CoV-2 (n-coronavirus) is the newest entry of the coronavirus family which was discovered in the year 2019. Moreover this virus was not identified in any humans before.
-Due to the rate of spread, on March 11 2020, the coronavirus (COVID-19) outbreak was declared a global pandemic by WHO. As of now there are over 430k+ deaths and over 3M active cases.
+
 
 # Motivation
+
+Coronavirus is a family of viruses that causes illness which can vary from common cold and cough which also leads to severe health conditions diarrhea, vomiting, chills, headache and much more. SARS-CoV-2 (n-coronavirus) is the newest entry of the coronavirus family which was discovered in the year 2019. Moreover this virus was not identified in any humans before. Due to the rate of spread, on March 11 2020, the coronavirus (COVID-19) outbreak was declared a global pandemic by WHO. As of now there are over 430k+ deaths and over 3M active cases.
 
 Naturally, twitter users discuss the latest development and react to local developments. However, this pandemic has generated a misinformation pandemic which has influenced the extent of seriousness towards COVID-19 and its policies. This was noticed predominantly in the United States of America, which now has the highest number of COVID-19 cases. While there were states which went into lockdown peacefully and willingly such as Washington, there were other states such as Florida where people vehemently protested against restrictive policies. 
 We believe that this sentiment will be captured in twitter data and hence can be utilized by the government at all levels to create effective strategies to inform the public better.
